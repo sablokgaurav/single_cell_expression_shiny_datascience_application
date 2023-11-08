@@ -1,6 +1,6 @@
 # single_cell_expression_shiny_expression_datascience_visual
 
-a combined expression and datascience approach to look at the expression plots plus the sequence intervals using shiny. I havent added much of the templating but the information you can plot from the same. You can use this for the expression datasets coming from the rna-seq, metagenome expression, bacterial expression and others You can plot also your expression with any other variables such as bins and method variables. This package is still in development. This code is in development and it will make a single cell or expression summation from the single cell or any expression datasets. Just you have to put the expression file in the same folder. 
+a combined expression and datascience approach based on shiny to look at the expression plots plus the sequence intervals using shiny. I havent added much of the templating but the information you can plot from the same. You can use this for the expression datasets coming from the rna-seq, metagenome expression, bacterial expression and others You can plot also your expression with any other variables such as bins and method variables. This package is still in development. This code is in development and it will make a single cell or expression summation from the single cell or any expression datasets. Just you have to put the expression file in the same folder. 
 
 ```
 #!/usr/bin/env python3
